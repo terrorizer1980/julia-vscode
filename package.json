@@ -1210,7 +1210,7 @@
         "markdown-it": "^12.0.6",
         "markdown-it-footnote": "^3.0.3",
         "promised-temp": "^v0.1.0",
-        "semver": "^7.3.5",
+        "semver": "^7.5.0",
         "uuidv4": "^6.2.10",
         "vscode-debugadapter": "^1.47.0",
         "vscode-jsonrpc": "^6.0.0",
