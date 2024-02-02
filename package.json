@@ -1212,7 +1212,7 @@
         "promised-temp": "^v0.1.0",
         "semver": "^7.3.5",
         "uuidv4": "^6.2.10",
-        "vscode-debugadapter": "^1.47.0",
+        "vscode-debugadapter": "^1.51.0",
         "vscode-jsonrpc": "^6.0.0",
         "vscode-languageclient": "^7.0.0",
         "which": "^2.0.2"
