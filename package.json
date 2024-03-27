@@ -1201,13 +1201,13 @@
         "updatedeps": "npm run compile && node ./out/scripts/updateDeps.js"
     },
     "dependencies": {
-        "@traptitech/markdown-it-katex": "^3.4.3",
+        "@traptitech/markdown-it-katex": "^3.6.0",
         "applicationinsights": "^1.8.10",
         "async-child-process": "^v1.1.1",
         "async-file": "^v2.0.2",
         "await-notify": "^1.0.1",
         "child-process-promise": "^v2.2.1",
-        "markdown-it": "^12.0.6",
+        "markdown-it": "^13.0.2",
         "markdown-it-footnote": "^3.0.3",
         "promised-temp": "^v0.1.0",
         "semver": "^7.3.5",
